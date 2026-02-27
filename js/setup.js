@@ -16,7 +16,7 @@
 
 // CANVAS SETUP
 const scene = document.querySelector("#canvas");
-const scale = window.devicePixelRatio;
+const scale = window.innerWidth > 800?window.devicePixelRatio:1;
 
 const xRatio = scale * 1;
 const yRatio = scale * 1;
