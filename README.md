@@ -2,4 +2,4 @@
 
 Draws a neon style heart on an html canvas element withjavascript.
 
-![a pink neon heart](./img/thumb.png)
+![a pink neon heart](./img/canvas.png)
